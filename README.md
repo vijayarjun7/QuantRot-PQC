@@ -128,7 +128,7 @@ optimization and interactive Streamlit dashboard.
 ## Author
 
 **Venkata Vijaya Kumari D.**
-Independent Researcher | Coppell, TX
+Independent Researcher,
 vijayaqa.rv7@gmail.com
 https://linkedin.com/in/vijayakumari007
 https://github.com/vijayarjun7
